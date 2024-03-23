@@ -1,0 +1,200 @@
+.he {
+    background-image: linear-gradient(to bottom, #101A28, #060A0C, #101A28);
+    width: 1920px;
+    height: 1080px;
+}
+
+.brom {
+    font-size: 22px;
+    color: white;
+    position: absolute;
+    margin-left: 236px;
+    margin-top: 35px;
+    font-weight: 700;
+}
+
+.top {
+    display: flex;
+    color: white;
+    font-size: 19px;
+    font-weight: 500;
+    gap: 60px;
+    margin-left: 821px;
+    padding-top: 40px;
+}
+
+
+.top div {
+    position: relative; 
+}
+
+.top div::after {
+    content: ''; 
+    display: block; 
+    position: absolute;
+    left: 0;
+    bottom: -5px; 
+    width: 100%;
+    height: 2px; 
+    background-color: transparent; 
+    transition: background-color 0.3s ease; 
+}
+
+.top div:hover::after,
+.top div.active::after {
+    background-color: white; 
+}
+
+
+
+.ew {
+    color: white;
+    position: absolute;
+    margin-left: 1648px;
+    margin-top: -27px;
+    font-size: 19px;
+}
+
+.br {
+    white-space: nowrap;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+.what {
+    font-size: 22px;
+    color: transparent; 
+    background: linear-gradient(to right, #4743FF, #43DDFF);
+    -webkit-background-clip: text; 
+    position: absolute;
+    margin-top: 303px;
+    margin-left: 532px;
+    white-space: nowrap;
+    font-weight: 800;
+}
+
+.fog {
+    position: absolute;
+    margin-left: 600px;
+    margin-top: 417px;
+}
+
+.we {
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    margin-left: 532px;
+    margin-top: 342px;
+    white-space: nowrap;
+    font-weight: 500;
+}
+
+.ver {
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    margin-left: 532px;
+    margin-top: 362px;
+    white-space: nowrap;
+    font-weight: 500;
+}
+
+.what2 {
+    font-size: 22px;
+    color: transparent; 
+    background: linear-gradient(to right, #4743FF, #43DDFF);
+    -webkit-background-clip: text; 
+    position: absolute;
+    margin-top: 438px;
+    margin-left: 532px;
+    white-space: nowrap;
+    font-weight: 800;
+}
+
+.our {
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    margin-left: 532px;
+    margin-top: 477px;
+    white-space: nowrap;
+    font-weight: 500;
+}
+
+.and {
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    margin-left: 532px;
+    margin-top: 497px;
+    white-space: nowrap;
+    font-weight: 500;
+}
+
+.wq {
+    font-size: 22px;
+    color: transparent; 
+    background: linear-gradient(to right, #4743FF, #43DDFF);
+    -webkit-background-clip: text; 
+    position: absolute;
+    margin-top: 573px;
+    margin-left: 532px;
+    white-space: nowrap;
+    font-weight: 800;
+}
+
+.at {
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    margin-left: 532px;
+    margin-top: 612px;
+    white-space: nowrap;
+    font-weight: 500;
+}
+
+.what3 {
+    font-size: 22px;
+    color: transparent; 
+    background: linear-gradient(to right, #4743FF, #43DDFF);
+    -webkit-background-clip: text; 
+    position: absolute;
+    margin-top: 685px;
+    margin-left: 532px;
+    white-space: nowrap;
+    font-weight: 800;
+
+}
+
+.we2 {
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    margin-left: 532px;
+    margin-top: 724px;
+    white-space: nowrap;
+    font-weight: 500;
+}
+
+.ver2 {
+    position: absolute;
+    color: white;
+    font-size: 19px;
+    margin-left: 532px;
+    margin-top: 744px;
+    white-space: nowrap;
+    font-weight: 500;
+}
+.br2{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+.width{
+    position: absolute;
+    width: 1920px;
+    border: solid 1px #444A4E;
+    margin-top: 100px;
+    
+    
+}

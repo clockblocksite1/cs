@@ -1,0 +1,14 @@
+.op{
+    width: 1920px;
+    height: 332px;
+    background-color: #070A0C;
+    position: absolute;
+    
+}
+.up{
+    background-color: #070A0C;
+    width: 1920px;
+    height: 88px;
+    position: absolute;
+    margin-top: 330px;
+}

@@ -1,0 +1,59 @@
+.Pead {
+    font-size: 22px;
+    color: white;
+    margin-left: 236px;
+    margin-top: 35px;
+    font-weight: 700;
+   
+}
+
+.header{
+    color: white;
+    display: flex;
+    gap: 60px;
+    font-size: 19px;
+    font-weight: 500;
+    position: absolute;
+    margin-left: 820px;
+    margin-top: -33px;
+}
+.br{
+    position: absolute;
+    padding-left: 1432px;
+    margin-top: -20px;
+    
+}
+
+.poc{
+    color: white;
+    font-size: 19px;
+    position: absolute;
+    margin-left: 1414px;
+    margin-top: -33px;
+}
+.img{
+    white-space: nowrap;
+    margin-left: 10px;
+}
+.got{
+    width: 164px;
+    height: 44px;
+    background-color: rgba(0, 0, 0, 0); 
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+    border: solid 2px white;
+    position: absolute;
+    margin-left: 1521px;
+    margin-top: -35px;
+    cursor: pointer;
+}
+.tire{
+    color: white;
+    width: 29px;
+    border: solid 2px;
+    margin-top: 10px;
+    margin-left: 7px;
+    position: absolute;
+   
+}
